@@ -58,7 +58,7 @@ The goal is to simulate a fun, gamified environment to pitch, vote, and view inn
 ### 💻 Run on Android Emulator or Device
 
 #### 1. **Clone the Project**
-git clone https://github.com/SAMAD-KHAN03/pgagi_assignment/tree/master
+git clone https://github.com/SAMAD-KHAN03/pgagi_assignment
 cd pgagi_assignment 
 
 #### 2.**download dependencies
